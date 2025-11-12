@@ -26,7 +26,7 @@ buttonNine = button.Button(root, "9", textbox)
 sumButton = button.Button(root, "+", textbox)
 subtractButton = button.Button(root, "-", textbox)
 divideButton = button.Button(root, "/", textbox)
-mulitplicationButton = button.Button(root, "X", textbox)
+mulitplicationButton = button.Button(root, "*", textbox)
 clearButton = button.Button(root, "C", textbox)
 equalsButton = button.Button(root, "=", textbox)
 
